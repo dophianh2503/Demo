@@ -10,7 +10,7 @@ namespace Lab01_03
     {
         static void Main(string[] args)
         {
-            
+            //1. Thai Add
             
         }
     }

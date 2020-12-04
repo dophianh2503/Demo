@@ -16,6 +16,7 @@ namespace Lab01_03
             // abc    
             //def
             //ghk
+            // qwer
         }
     }
 }
